@@ -3,9 +3,9 @@
 </h1>
 
 <p align="center">
-  [cite_start]<strong>Final-Year B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham [cite: 5, 10]</strong><br>
-  [cite_start]<em>Specializing in RTL Design, FPGA-based ML Acceleration, and Hardware-Software Co-Design[cite: 5, 7, 37].</em><br>
-  [cite_start]📍 Based in Coimbatore / Mumbai[cite: 10, 13].
+  [cite_start]<strong>B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham [cite: 10]</strong><br>
+  <em>My playground is the intersection of hardware and AI. I convince silicon to think faster.</em><br>
+  📍 Juggling time between Coimbatore & Mumbai.
 </p>
 
 <p align="center">
@@ -22,53 +22,52 @@
 
 ---
 
-[cite_start]I am an engineering student passionate about building high-performance computing platforms at the intersection of hardware and AI[cite: 8]. [cite_start]My experience spans from low-level RTL design in Verilog/SystemVerilog to deploying accelerated AI models on FPGAs using Vitis AI and Python[cite: 6, 7]. I am actively seeking internship and collaboration opportunities where I can contribute to cutting-edge technology.
+I'm on a mission to blur the lines between hardware and software until they're inseparable. [cite_start]As a final-year student, my focus is on building high-performance systems, from writing low-level Verilog to deploying accelerated AI models on FPGAs[cite: 5, 6]. I'm always looking for my next challenge and seeking internship or collaboration opportunities where I can help build the future of computing.
 
-- [cite_start]🔭 **I’m currently designing:** A real-time gunshot localization system on an FPGA (Project SATARK) for the Smart India Hackathon[cite: 31, 32].
-- [cite_start]🌱 **I'm focused on:** Deepening my expertise in High-Level Synthesis (HLS), IP core development, and embedded AI systems[cite: 36, 39].
-- [cite_start]👯 **I’m open to collaborating on:** Projects involving FPGA acceleration, hardware-software co-design, and novel applications of embedded machine learning[cite: 37, 38].
+- [cite_start]🔭 **My current quest:** Teaching an FPGA to listen for gunshots with Project SATARK, our entry for the Smart India Hackathon[cite: 32].
+- [cite_start]🌱 **Going down the rabbit hole of:** High-Level Synthesis (HLS), custom IP core development, and the finer points of embedded AI[cite: 36, 39].
+- 👯 **Looking for fellow adventurers for:** Quests involving FPGA acceleration, hardware-software co-design, and interesting ML applications.
 
 ---
 
-### 🚀 Key Projects & Experience
+### 🚀 Key Projects & Adventures
 
 <details open>
-<summary><h4>🏆 FPGA Deep Learning Accelerator</h4></summary>
+<summary><h4>🏆 FPGA Deep Learning Accelerator (...or, how I made a chip see 70x faster)</h4></summary>
 <p>
 
 - [cite_start]**Description:** Deployed an INT8 quantized ResNet-50 model on a Xilinx ZCU104 board using Vitis AI 3.0[cite: 29].
-- [cite_start]**Key Achievement:** Achieved a **24x-70x speedup** over the ARM Cortex-A53 CPU, with real-time inference at **30 FPS**, ~90% Top-1 accuracy, and a latency of just 4.188 ms[cite: 30]. [cite_start]The DPU operated at 72.5% efficiency[cite: 30].
-- **Tech Stack:** `Vitis AI`, `Python`, `Xilinx ZCU104`, `DPUCZDX8G`
+- [cite_start]**Key Achievement:** Hit a **24x-70x speedup** over the ARM Cortex-A53 CPU, enabling real-time inference at **30 FPS** with ~90% Top-1 accuracy and a tiny 4.188 ms latency[cite: 30].
+- [cite_start]**Tech Stack:** `Vitis AI`, `Python`, `Xilinx ZCU104`, `DPUCZDX8G` [cite: 29, 30]
 
 </p>
 </details>
 
 <details>
-<summary><h4>💼 LLM Inference Pipelines @ NTT Global Data Centers</h4></summary>
+<summary><h4>💼 LLM Pipeline Wrangler @ NTT Global Data Centers</h4></summary>
 <p>
 
-- [cite_start]**Description:** As an intern, I established and benchmarked Large Language Model (LLM) inference pipelines on AWS EC2 instances via SageMaker to enhance internal AI workflows[cite: 13, 15].
-- [cite_start]**Impact:** Gained hands-on experience with enterprise-grade cloud infrastructure and MLOps, supporting compute validation for simulation tools on a Juniper-based cloud environment[cite: 16].
-- **Tech Stack:** `AWS SageMaker`, `AWS EC2`, `Python`, `LLMs`
+- [cite_start]**Description:** During my internship, I established and benchmarked Large Language Model (LLM) inference pipelines on AWS EC2 using SageMaker to supercharge internal AI workflows[cite: 13, 15].
+- [cite_start]**Impact:** Gained hands-on experience with enterprise-grade cloud infrastructure while supporting compute validation for simulation tools on a Juniper-based cloud environment[cite: 16].
+- [cite_start]**Tech Stack:** `AWS SageMaker`, `AWS EC2`, `Python`, `LLMs` [cite: 15, 41]
 
 </p>
 </details>
 
 <details>
-<summary><h4>🛡️ IT Systems & Compliance Auditing @ Ernst & Young</h4></summary>
+<summary><h4>🛡️ Digital Systems Auditor @ Ernst & Young</h4></summary>
 <p>
 
-- [cite_start]**Description:** As a Technology Risk Intern, I conducted assessments of critical IT systems and enterprise controls against industry-leading security and privacy frameworks[cite: 18, 19].
-- [cite_start]**Impact:** Contributed to live compliance audits by evaluating systems against **ISO 27001/27701, NIST CSF 2.0, and GDPR** standards, gaining valuable experience in technology risk analysis[cite: 19, 20, 21].
-- **Tech Stack:** `ISO 27001`, `NIST CSF`, `GDPR`, `Risk Analysis`
+- [cite_start]**Description:** As a Technology Risk Intern, I assessed critical IT systems against industry-leading security and privacy frameworks[cite: 18, 19].
+- [cite_start]**Impact:** Helped with live compliance audits by evaluating systems against **ISO 27001/27701, NIST CSF 2.0, and GDPR**, and learned a thing or two about technology risk in the process[cite: 19, 21].
+- [cite_start]**Tech Stack:** `ISO 27001`, `NIST CSF`, `GDPR`, `Risk Analysis` [cite: 19]
 
 </p>
 </details>
 
 ---
 
-### 🛠️ My Tech Stack
-
+### 🛠️ My Tech Toolbox
 <table>
   <tr>
     <td valign="top"><strong>Hardware & HDL</strong></td>
@@ -115,7 +114,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVM-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVM-27&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
 ---
 
-[cite_start]⚡ **Fun Fact:** I'm a 4x National Champion in competitive word games (MaRRS Word Chase & Maze of Words)[cite: 49]. Besides that, I enjoy badminton and ornithology.
+[cite_start]⚡ **Fun Fact:** Before I made chips think, I was a 4x National Champion in competitive word games[cite: 49]. It turns out I just enjoy making things process language, whether they're human or silicon.
