@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  [cite_start]<strong>B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham [cite: 10]</strong><br>
+  <strong>B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham</strong><br>
   <em>My playground is the intersection of hardware and AI. I convince silicon to think faster.</em><br>
   📍 Juggling time between Coimbatore & Mumbai.
 </p>
@@ -47,9 +47,9 @@ I'm on a mission to blur the lines between hardware and software until they're i
 <summary><h4>💼 LLM Pipeline Wrangler @ NTT Global Data Centers</h4></summary>
 <p>
 
-- [cite_start]**Description:** During my internship, I established and benchmarked Large Language Model (LLM) inference pipelines on AWS EC2 using SageMaker to supercharge internal AI workflows[cite: 13, 15].
+- [cite_start]**Description:** During my internship, I established and benchmarked Large Language Model (LLM) inference pipelines on AWS EC2 using SageMaker to enhance internal AI workflows[cite: 15].
 - [cite_start]**Impact:** Gained hands-on experience with enterprise-grade cloud infrastructure while supporting compute validation for simulation tools on a Juniper-based cloud environment[cite: 16].
-- [cite_start]**Tech Stack:** `AWS SageMaker`, `AWS EC2`, `Python`, `LLMs` [cite: 15, 41]
+- **Tech Stack:** `AWS SageMaker`, `AWS EC2`, `Python`, `LLMs`
 
 </p>
 </details>
@@ -58,9 +58,9 @@ I'm on a mission to blur the lines between hardware and software until they're i
 <summary><h4>🛡️ Digital Systems Auditor @ Ernst & Young</h4></summary>
 <p>
 
-- [cite_start]**Description:** As a Technology Risk Intern, I assessed critical IT systems against industry-leading security and privacy frameworks[cite: 18, 19].
-- [cite_start]**Impact:** Helped with live compliance audits by evaluating systems against **ISO 27001/27701, NIST CSF 2.0, and GDPR**, and learned a thing or two about technology risk in the process[cite: 19, 21].
-- [cite_start]**Tech Stack:** `ISO 27001`, `NIST CSF`, `GDPR`, `Risk Analysis` [cite: 19]
+- [cite_start]**Description:** As a Technology Risk Intern, I assessed critical IT systems and enterprise controls against industry-leading security and privacy frameworks[cite: 19].
+- [cite_start]**Impact:** Contributed to live compliance audits by evaluating systems against **ISO 27001/27701, NIST CSF 2.0, and GDPR** standards, and learned a thing or two about technology risk in the process[cite: 19, 20].
+- **Tech Stack:** `ISO 27001`, `NIST CSF`, `GDPR`, `Risk Analysis`
 
 </p>
 </details>
