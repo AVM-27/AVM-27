@@ -54,7 +54,21 @@ Currently open to **internship and collaboration opportunities** where I can hel
 
 </p>
 </details>
+</details>
 
+<details>
+<summary>⚙️ RTL Design & IP Core Development</summary>
+<p>
+
+- Designed and verified RTL modules including **counters, sequence detectors, and arbiters** using Verilog  
+- Built **SystemVerilog testbenches** for module-level verification  
+- Created and optimized custom IP cores using **Vitis HLS**, then integrated with existing IP in Vivado  
+- Deployed RTL designs on **Basys3** and **Pynq** FPGA boards for functional testing and demonstration  
+- Gained practical experience in **SoC prototyping** and modular design for real-world hardware projects  
+- **Tech Stack:** `Verilog`, `SystemVerilog`, `Vitis HLS`, `Vivado`, `ModelSim`, `Basys3`, `Pynq`
+
+</p>
+</details>
 <details>
 <summary>📡 Phase Noise Reduction in Radars (MATLAB + LabVIEW)</summary>
 <p>
@@ -75,21 +89,7 @@ Currently open to **internship and collaboration opportunities** where I can hel
 - **Tech Stack:** `Python`, `OpenCV`, `TensorFlow`, `Embedded AI`
 
 </p>
-</details>
 
-<details>
-<summary>⚙️ RTL Design & IP Core Development</summary>
-<p>
-
-- Designed and verified RTL modules including **counters, sequence detectors, and arbiters** using Verilog  
-- Built **SystemVerilog testbenches** for module-level verification  
-- Created and optimized custom IP cores using **Vitis HLS**, then integrated with existing IP in Vivado  
-- Deployed RTL designs on **Basys3** and **Pynq** FPGA boards for functional testing and demonstration  
-- Gained practical experience in **SoC prototyping** and modular design for real-world hardware projects  
-- **Tech Stack:** `Verilog`, `SystemVerilog`, `Vitis HLS`, `Vivado`, `ModelSim`, `Basys3`, `Pynq`
-
-</p>
-</details>
 
 ---
 
