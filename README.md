@@ -25,18 +25,19 @@
 
 ---
 
-I'm on a mission to blur the lines between hardware and software until they're inseparable. As a final-year student, my focus is on building high-performance systems—from writing low-level Verilog to deploying accelerated AI models on FPGAs.  
+I'm on a mission to blur the lines between hardware and software until they're inseparable.  
+Final-year Electronics Engineering student with a focus on RTL design, SoC prototyping, and FPGA-based AI acceleration.  
 Currently open to **internship and collaboration opportunities** where I can help build the future of computing.
 
 ---
 
 ### 🔭 Current Quests
 
-- 🧠 **Teaching an FPGA to listen for gunshots** with **Project SATARK**, our entry for the Smart India Hackathon.  
-- 📡 **Phase Noise Reduction in Radars** using MATLAB & LabVIEW — improving detection reliability under RF noise conditions.  
-- 🎥 **Video Tampering Detection in UAV & Dashcam Footage** — using computer vision to catch manipulations in fast-moving scenes.  
-- 🌱 Diving into **High-Level Synthesis (HLS)**, custom IP core dev, and embedded AI pipelines that don’t just run — they sprint.  
-- 👯 Seeking collaborators for quests involving **FPGA acceleration**, **hardware-software co-design**, and offbeat AI applications.
+- 🧠 **Teaching an FPGA to listen for gunshots** — Project SATARK, Smart India Hackathon entry  
+- 📡 **Phase Noise Reduction in Radars** — MATLAB + LabVIEW-based DSP modeling  
+- 🎥 **Video Tampering Detection in UAV/Dashcam Footage** — ML pipeline for forensic vision  
+- 🌱 Exploring **HLS, IP core development, SoC prototyping**, and embedded AI that runs where it matters  
+- 👯 Looking for collaborators in **FPGA acceleration**, **hardware-software co-design**, and edge AI
 
 ---
 
@@ -46,9 +47,9 @@ Currently open to **internship and collaboration opportunities** where I can hel
 <summary><h4>🏆 FPGA Deep Learning Accelerator (...or, how I made a chip see 70x faster)</h4></summary>
 <p>
 
-- **Deployed an INT8 quantized ResNet-50 model** on a Xilinx ZCU104 using Vitis AI 3.0  
-- Achieved **24x-70x speedup** over ARM Cortex-A53 CPU  
-- Real-time inference at **30 FPS**, ~90% Top-1 accuracy, just **4.188 ms latency**  
+- Deployed INT8 quantized ResNet-50 on Xilinx ZCU104 using Vitis AI 3.0  
+- Achieved **30 FPS** inference at just **4.188 ms latency** with ~90% Top-1 accuracy  
+- **24x–70x speedup** over ARM Cortex-A53 (DPUCZDX8G on 1.2 TOPS)  
 - **Tech Stack:** `Vitis AI`, `Python`, `Xilinx ZCU104`, `DPUCZDX8G`
 
 </p>
@@ -58,9 +59,9 @@ Currently open to **internship and collaboration opportunities** where I can hel
 <summary>📡 Phase Noise Reduction in Radars (MATLAB + LabVIEW)</summary>
 <p>
 
-- Designed a model to analyze and **reduce phase noise** in radar transmissions  
-- Aimed at improving **SNR** and target detection reliability in real-time systems  
-- **Tech Stack:** `MATLAB`, `LabVIEW`, `RF Simulation`, `DSP`
+- Designed DSP models to identify and mitigate phase noise  
+- Improved radar SNR and detection in noisy RF environments  
+- **Tech Stack:** `MATLAB`, `LabVIEW`, `RF Simulation`
 
 </p>
 </details>
@@ -69,8 +70,8 @@ Currently open to **internship and collaboration opportunities** where I can hel
 <summary>🎥 Video Tampering Detection in UAV & Dashcam Footage</summary>
 <p>
 
-- Built an ML-powered pipeline to **detect tampering** in dynamic videos (e.g., frame duplication, motion anomalies)  
-- Applications in **surveillance**, **autonomous vehicle trust**, and **video forensics**  
+- Built tamper detection pipeline to flag manipulated frames in dynamic video  
+- Applied in surveillance, forensic AI, and autonomous systems  
 - **Tech Stack:** `Python`, `OpenCV`, `TensorFlow`, `Embedded AI`
 
 </p>
@@ -78,38 +79,37 @@ Currently open to **internship and collaboration opportunities** where I can hel
 
 ---
 
-### 💼 Internships & Industry Experience
+### 💼 Internships & Experience
 
 <details>
 <summary>💻 LLM Pipeline Wrangler @ NTT Global Data Centers</summary>
 <p>
 
-- Built and benchmarked **LLM inference pipelines** on AWS EC2 using SageMaker  
-- Supported validation of simulation tools in a **Juniper-based cloud** environment  
-- **Tech Stack:** `AWS EC2`, `SageMaker`, `Python`, `LLMs`
+- Built and optimized LLM inference pipelines using `AWS EC2` and `SageMaker`  
+- Integrated workloads on Juniper-based infra for simulation compute  
+- Explored sustainability and energy efficiency for inference at scale
 
 </p>
 </details>
 
 <details>
-<summary>🛡️ Digital Systems Auditor @ Ernst & Young</summary>
+<summary>🛡️ Technology Risk Intern @ Ernst & Young</summary>
 <p>
 
-- Evaluated IT systems and enterprise controls against **ISO 27001/27701**, **NIST CSF 2.0**, and **GDPR** standards  
-- Supported live compliance audits and **risk analysis workflows**  
-- **Tech Stack:** `ISO 27001`, `NIST CSF`, `GDPR`, `Audit Tools`
+- Evaluated enterprise systems for compliance with `ISO 27001`, `NIST CSF`, and `GDPR`  
+- Performed live audit prep with documentation, gap analysis, and tool walkthroughs  
+- Gained exposure to cybersecurity and enterprise governance in real systems
 
 </p>
 </details>
 
 <details>
-<summary>🌾 Embedded Systems Engineer – SATCARD (Smart Agri Prototype)</summary>
+<summary>🌾 Embedded Systems Assistant – SATCARD @ IIT-PKD</summary>
 <p>
 
-- Developed a **vibration analysis system** using a 6-DoF IMU and microcontrollers like Arduino UNO & Raspberry Pi  
-- **Calibrated sensors** to improve real-world accuracy and reliability  
-- Implemented **sensor fusion techniques** for smarter agricultural diagnostics  
-- Enabled low-cost, edge-deployable solutions for **soil/crop health monitoring**
+- Developed vibration analysis system using 6-DoF IMU with Arduino UNO & Raspberry Pi  
+- Calibrated sensors for higher accuracy and real-time response  
+- Explored sensor fusion models for agri-diagnostics using edge computing principles
 
 </p>
 </details>
@@ -120,14 +120,15 @@ Currently open to **internship and collaboration opportunities** where I can hel
 
 | Category | Skills |
 |---|---|
-| **Hardware & HDL** | ![Verilog](https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge) ![VHDL](https://img.shields.io/badge/VHDL-8E8D9D?style=for-the-badge) |
+| **Hardware & HDL** | ![Verilog](https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge) ![VHDL](https://img.shields.io/badge/VHDL-8E8D9D?style=for-the-badge) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
-| **Tools & Platforms** | ![Vivado](https://img.shields.io/badge/Xilinx_Vivado-9D2235?style=for-the-badge) ![Vitis](https://img.shields.io/badge/Xilinx_Vitis-9D2235?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-002D5A?style=for-the-badge) ![SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=aws&logoColor=black) ![Keil](https://img.shields.io/badge/Keil-002D5A?style=for-the-badge) |
-| **Domains** | ![FPGA Acceleration](https://img.shields.io/badge/FPGA_Acceleration-0078D4?style=for-the-badge) ![RTL Design](https://img.shields.io/badge/RTL_Design-5A29E4?style=for-the-badge) ![SoC Design](https://img.shields.io/badge/SoC_Design-00A99D?style=for-the-badge) ![AI & ML](https://img.shields.io/badge/AI_&_ML-F29F05?style=for-the-badge) |
+| **Tools & Platforms** | ![Vivado](https://img.shields.io/badge/Vivado-9D2235?style=for-the-badge) ![Vitis](https://img.shields.io/badge/Vitis-9D2235?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-002D5A?style=for-the-badge) ![Keil](https://img.shields.io/badge/Keil-002D5A?style=for-the-badge) ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB000?style=for-the-badge) ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black) |
+| **Verification & Simulation** | ![Testbenches](https://img.shields.io/badge/SystemVerilog_Testbenches-005F73?style=for-the-badge) ![RTL Simulation](https://img.shields.io/badge/RTL_Simulation-FF6F61?style=for-the-badge) ![IP Core Dev](https://img.shields.io/badge/IP_Core_Dev-7E57C2?style=for-the-badge) ![Vitis_HLS](https://img.shields.io/badge/Vitis_HLS-9D2235?style=for-the-badge) |
+| **Domains** | ![RTL Design & Verification](https://img.shields.io/badge/RTL_Design_&_Verification-5A29E4?style=for-the-badge) ![SoC Design](https://img.shields.io/badge/SoC_Design-00A99D?style=for-the-badge) ![FPGA Deployment](https://img.shields.io/badge/FPGA_Deployment-0078D4?style=for-the-badge) ![Hardware Acceleration](https://img.shields.io/badge/Hardware_Acceleration-B33771?style=for-the-badge) ![Embedded AI](https://img.shields.io/badge/Embedded_AI-F29F05?style=for-the-badge) ![DSP](https://img.shields.io/badge/DSP-1E90FF?style=for-the-badge) ![AI & ML](https://img.shields.io/badge/AI_&_ML-673AB7?style=for-the-badge) ![Cross-Domain Research](https://img.shields.io/badge/Cross_Domain_Research-6C5CE7?style=for-the-badge) |
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVM-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -138,8 +139,9 @@ Currently open to **internship and collaboration opportunities** where I can hel
 
 ### ⚡ Fun Fact
 
-Before I made chips think, I was a **4x National Champion in competitive word games**. Turns out I just enjoy making things process language — whether they’re human or silicon.
+Before I made chips think, I was a **4× National Champion in competitive word games**.  
+Turns out I just enjoy making things process language — whether they’re human or silicon.
 
 <!--
-SEO: Adarsh Venugopal, FPGA engineer, embedded AI, Verilog, Vitis AI, radar signal processing, video forensics, bold.pro, AVM-27, Amrita, system design intern, hardware-software co-design
+SEO: Adarsh Venugopal, FPGA engineer, embedded AI, RTL design, systemVerilog, Vitis AI, radar signal processing, labview, smart india hackathon, AVM-27, Pynq, Basys3, adversarial AI, bold.pro
 -->
