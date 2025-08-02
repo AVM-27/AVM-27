@@ -18,6 +18,9 @@
   <a href="https://www.instagram.com/sepling_wrogn" target="_blank">
     <img src="https://img.shields.io/badge/Photography-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://bold.pro/my/adarsh-venugopal/281r" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Page-Bold.pro-blueviolet?style=for-the-badge" alt="My Page">
+  </a>
 </p>
 
 ---
@@ -27,13 +30,16 @@
 I'm on a quest to blur the lines between hardware and software until they're hopelessly entangled (in the best way).  
 As a final-year engineering student, I build high-performance systems — from low-level **Verilog** to accelerated **AI on FPGAs**.  
 
+> **🔎 Actively seeking internship opportunities**  
+> where I can contribute to next-gen computing systems at the edge of hardware and AI.
+
 ---
 
 ### 🎯 Current Quests
 
 - 🔭 **Project SATARK:** Teaching an FPGA to listen for gunshots — our team’s entry for the **Smart India Hackathon**.  
 - 📡 **Phase Noise Reduction in Radars:** Taming analog chaos using `MATLAB` and `LabVIEW` to improve target detection.  
-- 🎥 **Video Tampering Detection in UAV & Dashcam Footage:** Making sure what your drone sees is what *really* happened (no deepfakes here).  
+- 🎥 **Video Tampering Detection in UAV & Dashcam Footage:** Making sure what your drone sees is what *really* happened.  
 - 🌱 **Exploring:** High-Level Synthesis (HLS), custom IP core design, and embedded AI that runs where the internet doesn’t.
 
 ---
@@ -86,7 +92,7 @@ Fellow adventurers who are into:
 
 ---
 
-### 💼 Past Missions (a.k.a Internships)
+### 💼 Past Missions (Internships)
 
 <details>
 <summary>🧠 LLM Pipeline Wrangler @ NTT Global Data Centers</summary>
@@ -95,6 +101,17 @@ Fellow adventurers who are into:
 - **Role:** Built and benchmarked LLM inference pipelines on `AWS EC2` using `SageMaker`.  
 - **Impact:** Helped accelerate AI workflows, supported compute validation, and stress-tested cloud infra on a Juniper-based simulation lab.  
 - **Stack:** `AWS SageMaker`, `Python`, `LLMs`, `EC2`, `Cloud Infra`
+
+</p>
+</details>
+
+<details>
+<summary>🛰️ Hardware Intern @ SATCARD Research Program</summary>
+<p>
+
+- **Role:** Worked on radar-satellite hybrid systems under a funded initiative with a focus on signal processing and high-performance embedded systems.  
+- **Impact:** Contributed to architectural improvements in SDR-based radar modules, with future use cases in national security and aerospace.  
+- **Stack:** `FPGA`, `MATLAB`, `Signal Processing`, `LabVIEW`, `SDR`
 
 </p>
 </details>
