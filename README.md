@@ -22,12 +22,29 @@
 
 ---
 
-I'm on a mission to blur the lines between hardware and software until they're inseparable.  
-As a final-year student, my focus is on building high-performance systems, from writing low-level Verilog to deploying accelerated AI models on FPGAs. I'm always looking for my next challenge and seeking internship or collaboration opportunities where I can help build the future of computing.
+### 🧠 Mission Brief
 
-- 🔭 **My current quest:** Teaching an FPGA to listen for gunshots with Project SATARK, our entry for the Smart India Hackathon.
-- 🌱 **Going down the rabbit hole of:** High-Level Synthesis (HLS), custom IP core development, and the finer points of embedded AI.
-- 👯 **Looking for fellow adventurers for:** Quests involving FPGA acceleration, hardware-software co-design, and interesting ML applications.
+I'm on a quest to blur the lines between hardware and software until they're hopelessly entangled (in the best way).  
+As a final-year engineering student, I build high-performance systems — from low-level **Verilog** to accelerated **AI on FPGAs**.  
+
+---
+
+### 🎯 Current Quests
+
+- 🔭 **Project SATARK:** Teaching an FPGA to listen for gunshots — our team’s entry for the **Smart India Hackathon**.  
+- 📡 **Phase Noise Reduction in Radars:** Taming analog chaos using `MATLAB` and `LabVIEW` to improve target detection.  
+- 🎥 **Video Tampering Detection in UAV & Dashcam Footage:** Making sure what your drone sees is what *really* happened (no deepfakes here).  
+- 🌱 **Exploring:** High-Level Synthesis (HLS), custom IP core design, and embedded AI that runs where the internet doesn’t.
+
+---
+
+### 🤝 Looking For
+
+Fellow adventurers who are into:
+- 🔌 FPGA acceleration
+- 🧠 Embedded ML
+- 🧬 Hardware-software co-design
+- 🛸 Drones, edge computing, signal intelligence... or just cool builds that push boundaries
 
 ---
 
@@ -38,19 +55,19 @@ As a final-year student, my focus is on building high-performance systems, from 
 <p>
 
 - **Description:** Deployed an INT8 quantized ResNet-50 model on a Xilinx ZCU104 board using Vitis AI 3.0.  
-- **Key Achievement:** Hit a **24x–70x speedup** over the ARM Cortex-A53 CPU, enabling real-time inference at **30 FPS** with ~90% Top-1 accuracy and a tiny **4.188 ms latency**.  
-- **Tech Stack:** `Vitis AI`, `Python`, `Xilinx ZCU104`, `DPUCZDX8G`
+- **Achievement:** Achieved **24x–70x** speedup over ARM Cortex-A53, hitting **30 FPS** inference with ~90% accuracy and just **4.188 ms latency**.  
+- **Stack:** `Vitis AI`, `Python`, `Xilinx ZCU104`, `DPUCZDX8G`
 
 </p>
 </details>
 
 <details>
-<summary>📡 Phase Noise Reduction in Radars (MATLAB + LabVIEW)</summary>
+<summary>📡 Phase Noise Reduction in Radars</summary>
 <p>
 
-- **Description:** Currently working on modeling and mitigating phase noise in radar systems using signal processing techniques.  
-- **Tech Stack:** `MATLAB`, `LabVIEW`, `RF Simulation`, `Digital Signal Processing`  
-- **Goal:** Improve detection accuracy and SNR in adverse RF environments for more reliable target acquisition.
+- **Description:** Modeling and reducing phase noise in radar systems using advanced signal processing.  
+- **Stack:** `MATLAB`, `LabVIEW`, `RF Simulation`, `DSP`  
+- **Goal:** Improve SNR and accuracy for robust object detection in noisy RF conditions.
 
 </p>
 </details>
@@ -59,21 +76,25 @@ As a final-year student, my focus is on building high-performance systems, from 
 <summary>🎥 Video Tampering Detection in UAV & Dashcam Footage</summary>
 <p>
 
-- **Description:** Designing an ML-powered pipeline to detect temporal and spatial tampering in dynamic video feeds captured by UAVs and dashcams.  
-- **Focus Areas:** Frame duplication, pixel manipulation, and motion vector inconsistencies.  
-- **Use Cases:** Surveillance integrity, autonomous navigation trust, and forensic validation.  
-- **Tech Stack:** `Python`, `OpenCV`, `TensorFlow`, `Video Forensics`, `Embedded AI`
+- **Description:** Detecting frame-level manipulation in dynamic videos (e.g., from drones, dashcams).  
+- **Focus:** Frame duplication, pixel injection, motion vector inconsistencies.  
+- **Stack:** `Python`, `OpenCV`, `TensorFlow`, `Embedded ML`, `Video Forensics`  
+- **Goal:** Bring truth to edge devices, one frame at a time.
 
 </p>
 </details>
 
+---
+
+### 💼 Past Missions (a.k.a Internships)
+
 <details>
-<summary>💼 LLM Pipeline Wrangler @ NTT Global Data Centers</summary>
+<summary>🧠 LLM Pipeline Wrangler @ NTT Global Data Centers</summary>
 <p>
 
-- **Description:** Established and benchmarked LLM inference pipelines on AWS EC2 using SageMaker to enhance internal AI workflows.  
-- **Impact:** Gained hands-on experience with enterprise-grade cloud infrastructure while supporting compute validation on Juniper-based simulation environments.  
-- **Tech Stack:** `AWS SageMaker`, `AWS EC2`, `Python`, `LLMs`
+- **Role:** Built and benchmarked LLM inference pipelines on `AWS EC2` using `SageMaker`.  
+- **Impact:** Helped accelerate AI workflows, supported compute validation, and stress-tested cloud infra on a Juniper-based simulation lab.  
+- **Stack:** `AWS SageMaker`, `Python`, `LLMs`, `EC2`, `Cloud Infra`
 
 </p>
 </details>
@@ -82,9 +103,9 @@ As a final-year student, my focus is on building high-performance systems, from 
 <summary>🛡️ Digital Systems Auditor @ Ernst & Young</summary>
 <p>
 
-- **Description:** Assessed IT systems and enterprise controls against leading security and privacy frameworks.  
-- **Impact:** Contributed to live audits using standards like **ISO 27001/27701**, **NIST CSF 2.0**, and **GDPR**.  
-- **Tech Stack:** `ISO 27001`, `NIST CSF`, `GDPR`, `Risk Analysis`
+- **Role:** Evaluated IT systems for security, compliance, and "no funny business."  
+- **Impact:** Contributed to live audits for **ISO 27001/27701**, **NIST CSF 2.0**, and **GDPR** compliance.  
+- **Stack:** `ISO/NIST`, `Risk Analysis`, `GDPR`, `Governance Frameworks`
 
 </p>
 </details>
@@ -95,7 +116,7 @@ As a final-year student, my focus is on building high-performance systems, from 
 
 <table>
   <tr>
-    <td valign="top"><strong>Hardware & HDL</strong></td>
+    <td><strong>🧩 Hardware & HDL</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge&logo=verilog&logoColor=white">
       <img src="https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge">
@@ -103,7 +124,7 @@ As a final-year student, my focus is on building high-performance systems, from 
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Languages</strong></td>
+    <td><strong>💬 Languages</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
       <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
@@ -111,7 +132,7 @@ As a final-year student, my focus is on building high-performance systems, from 
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Tools & Platforms</strong></td>
+    <td><strong>🛠️ Tools & Platforms</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Xilinx_Vivado-9D2235?style=for-the-badge">
       <img src="https://img.shields.io/badge/Xilinx_Vitis-9D2235?style=for-the-badge">
@@ -121,7 +142,7 @@ As a final-year student, my focus is on building high-performance systems, from 
     </td>
   </tr>
   <tr>
-    <td valign="top"><strong>Domains</strong></td>
+    <td><strong>🌍 Domains</strong></td>
     <td>
       <img src="https://img.shields.io/badge/FPGA_Acceleration-0078D4?style=for-the-badge">
       <img src="https://img.shields.io/badge/RTL_Design-5A29E4?style=for-the-badge">
@@ -133,7 +154,7 @@ As a final-year student, my focus is on building high-performance systems, from 
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVM-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -144,5 +165,7 @@ As a final-year student, my focus is on building high-performance systems, from 
 
 ### ⚡ Fun Fact
 
-Before I made chips think, I was a **4× National Champion in competitive word games**.  
-Turns out I just enjoy making things process language—whether they're human or silicon.
+Before I made chips think, I made humans think — as a **4× National Champion in competitive word games**.  
+Turns out I just enjoy optimizing **language processing**, whether it's silicon or sentient.
+
+---
