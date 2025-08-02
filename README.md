@@ -4,8 +4,8 @@
 
 <p align="center">
   <strong>B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham</strong><br>
-  <em>My playground is the intersection of hardware and AI. I convince silicon to think faster.</em><br>
-  📍 Juggling time between Coimbatore & Mumbai.
+  <em>My playground is the intersection of hardware and AI. My job is to convince silicon to think faster.</em><br>
+  📍 Juggling time and projects between Coimbatore & Mumbai.
 </p>
 
 <p align="center">
@@ -25,54 +25,52 @@
 
 ---
 
-I'm on a mission to blur the lines between hardware and software until they're inseparable.  
-Final-year Electronics Engineering student with a focus on RTL design, SoC prototyping, and FPGA-based AI acceleration.  
-Currently open to **internship and collaboration opportunities** where I can help build the future of computing.
+I'm on a mission to blur the lines between hardware and software until they're inseparable. As a final-year student, I get my hands dirty with everything from low-level RTL design to high-flying FPGA-based AI. I'm currently looking for my next adventure and am open to **internship and collaboration opportunities** where I can help build the future of computing.
 
 ---
 
 ### 🔭 Current Quests
 
-- 🧠 **SATARK (Smart India Hackathon):** Real-time gunshot detection on FPGA using mic arrays + DoA + DL  
-- 🛡️ **Phase Noise Reduction in Radars:** DSP modelling with MATLAB & LabVIEW  
-- 🎥 **Video Tampering Detection:** ML pipeline for detecting forged surveillance in UAV/dashcam feeds  
-- 🌱 Exploring **HLS**, **custom IP core design**, **SoC prototyping**, and **AI acceleration** for embedded devices
+- 🧠 **Project SATARK (Smart India Hackathon):** Teaching an FPGA to have superhuman hearing for real-time gunshot detection.
+- 🛡️ **Waging War on Noise:** Wielding MATLAB & LabVIEW to model and reduce phase noise in radar systems.
+- 🎥 **AI Video Detective:** Building an ML pipeline to spot forged footage in UAV/dashcam feeds.
+- 🌱 **Endless Exploration:** Going down the rabbit holes of HLS, custom IP design, and AI on tiny embedded devices.
 
 ---
 
 ### 🚀 Key Projects & Adventures
 
 <details open>
-<summary><h4>🏆 FPGA Deep Learning Accelerator</h4></summary>
+<summary><h4>🏆 FPGA Deep Learning Accelerator (a.k.a How I Made a Chip See 70x Faster)</h4></summary>
 <p>
 
-- Deployed INT8 ResNet-50 on Xilinx ZCU104 using Vitis AI 3.0  
-- Achieved 30 FPS @ 4.188 ms latency with 90%+ Top-1 accuracy  
-- 24×–70× speedup over ARM Cortex-A53 (DPUCZDX8G on 1.2 TOPS)  
+- Convinced an INT8 ResNet-50 model to run a marathon on a Xilinx ZCU104 board.
+- Hit a blistering 30 FPS @ 4.188 ms latency with 90%+ Top-1 accuracy.
+- Achieved a 24×–70× speedup over its ARM Cortex-A53 cousin.
 - **Tech Stack:** `Vitis AI`, `Python`, `Xilinx ZCU104`, `DPUCZDX8G`
 
 </p>
 </details>
 
 <details>
-<summary>⚙️ RTL Design & IP Core Development</summary>
+<summary>⚙️ RTL Design & IP Cores (Speaking to Silicon in its Native Tongue)</h4></summary>
 <p>
 
-- Designed counters, arbiters, sequence detectors in Verilog  
-- Verified using SystemVerilog testbenches + ModelSim  
-- Developed and integrated custom IP cores using Vitis HLS and Vivado  
+- Designed and built fundamental digital circuits (counters, arbiters, etc.) in Verilog.
+- Meticulously verified them with SystemVerilog testbenches & ModelSim.
+- Crafted and integrated my own custom IP cores using Vitis HLS and Vivado.
 - **Platforms:** Basys3, Pynq
 
 </p>
 </details>
 
 <details>
-<summary>🎯 Fooling a Neural Network: Adversarial Pixel Perturbation</summary>
+<summary>🎯 My Hobby: Giving Neural Networks an Existential Crisis</summary>
 <p>
 
-- Tested on PureCNN and Modified ResNet trained on CIFAR-10  
-- Applied Differential Evolution to craft 3–5 pixel attacks  
-- Reduced true class confidence by up to 70%, triggering misclassification  
+- Engineered adversarial attacks that fool image classifiers with just 3–5 pixels.
+- Watched with glee as true class confidence plummeted by up to 70%.
+- Proved that even smart AI can be tricked if you know where to poke it.
 - **Tech Stack:** `Python`, `TensorFlow`, `Colab`, `Differential Evolution`
 
 </p>
@@ -82,20 +80,20 @@ Currently open to **internship and collaboration opportunities** where I can hel
 <summary>🔐 Voice Authenticator with DSP + ML + Arduino</summary>
 <p>
 
-- Built speaker recognition system with distance-based validation  
-- Combined DSP-based feature extraction with ML classification  
-- Integrated with Arduino and ultrasonic sensor for embedded use
+- Built a "speak, friend, and enter" system that only listens if you're close enough.
+- Fused classic DSP feature extraction with modern ML classification.
+- All running on an embedded Arduino with an ultrasonic sensor as its gatekeeper.
 
 </p>
 </details>
 
 <details>
-<summary>📻 27 MHz AM Walkie-Talkie</summary>
+<summary>📻 27 MHz AM Walkie-Talkie (Built From Pure Grit and Solder Fumes)</h4></summary>
 <p>
 
-- Built analog RF system with AM modulation/demodulation from scratch  
-- Designed low-noise RF PCB and hand-wound transformers  
-- Learned impedance matching, signal chain construction, and component-level RF design
+- Assembled an analog RF system from scratch. Yes, I hand-wound the transformers.
+- Designed a low-noise PCB and battled with impedance matching.
+- Learned that real-world RF is both black magic and beautiful physics.
 
 </p>
 </details>
@@ -104,14 +102,14 @@ Currently open to **internship and collaboration opportunities** where I can hel
 
 ### 🌼 Awards & Volunteering
 
-- 🎓 **University Nominee** – Smart India Hackathon (2024)  
-- 🧠 **Participant** – DIR-V FPGA Hackathon, RISC-V Symposium (IIT-M), IIMAPS 2.0 (IISc)  
-- 📈 **Qualifier** – AI Blueprint of Bharat, Case Study Challenge (IIT-KGP, 2024)  
-- 🥈 **Runner-Up & Coordinator** – AsIEvolve Leadership Program (Rotary)  
-- 🏆 **4× National Champion** – MaRRS Word Chase & Maze of Words  
-- 📷 **Member** – INCOSE Amrita Chapter, Amrita Photography Club  
-- 🤝 **Volunteer** – Outreach campaigns (e.g., Amma’s 70th birthday)  
-- 🎤 **Active Speaker** – Represented college in debates, quizzes, and elocution
+- 🎓 **University Nominee** – Smart India Hackathon (2024)
+- 🧠 **Participant** – DIR-V FPGA Hackathon, RISC-V Symposium (IIT-M), IIMAPS 2.0 (IISc)
+- 📈 **Qualifier** – AI Blueprint of Bharat, Case Study Challenge (IIT-KGP, 2024)
+- 🥈 **Runner-Up & Coordinator** – AsIEvolve Leadership Program (Rotary)
+- 🏆 **4× National Champion** – MaRRS Word Chase & Maze of Words
+- 📷 **Member** – INCOSE Amrita Chapter, Amrita Photography Club
+- 🤝 **Volunteer** – Outreach campaigns (e.g., Amma’s 70th birthday)
+- 🎤 **Active Speaker** – Represented my college in debates, quizzes, and elocution
 
 ---
 
@@ -121,9 +119,9 @@ Currently open to **internship and collaboration opportunities** where I can hel
 <summary>💻 LLM Pipeline Wrangler @ NTT Global Data Centers</summary>
 <p>
 
-- Built and optimised LLM inference workflows using AWS EC2 and SageMaker  
-- Integrated Juniper-based infra for distributed compute and monitoring  
-- Explored energy-efficient AI inference across large-scale deployments
+- Tamed and optimized LLM inference workflows on AWS EC2 and SageMaker.
+- Helped integrate Juniper-based infra for distributed compute across deployments large enough to have their own weather systems.
+- Researched how to make AI inference less power-hungry.
 
 </p>
 </details>
@@ -132,9 +130,9 @@ Currently open to **internship and collaboration opportunities** where I can hel
 <summary>🛡️ Technology Risk Intern @ Ernst & Young</summary>
 <p>
 
-- Assisted in compliance audits aligned with ISO 27001, GDPR, NIST CSF  
-- Prepared evidence for control validation, participated in live audit walkthroughs  
-- Explored enterprise cybersecurity and IT governance processes
+- Assisted in compliance audits, learning the sacred texts of enterprise security (ISO 27001, GDPR, NIST CSF).
+- Prepared evidence for control validation and survived live audit walkthroughs.
+- Got a fascinating look at how big companies handle cybersecurity.
 
 </p>
 </details>
@@ -143,8 +141,8 @@ Currently open to **internship and collaboration opportunities** where I can hel
 <summary>🌾 Embedded Systems Assistant – SATCARD @ IIT-PKD</summary>
 <p>
 
-- Developed vibration analysis system using 6-DoF IMU with Arduino/RPi  
-- Built real-time sensor fusion pipelines for agricultural diagnostics
+- Developed a vibration analysis system using a 6-DoF IMU with Arduino/RPi.
+- Built real-time sensor fusion pipelines for smarter farming diagnostics.
 
 </p>
 </details>
@@ -152,7 +150,6 @@ Currently open to **internship and collaboration opportunities** where I can hel
 ---
 
 ### 🛠️ My Tech Toolbox
-
 | Category | Skills |
 |---|---|
 | **Hardware & HDL** | ![Verilog](https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge) ![VHDL](https://img.shields.io/badge/VHDL-8E8D9D?style=for-the-badge) |
@@ -160,7 +157,6 @@ Currently open to **internship and collaboration opportunities** where I can hel
 | **Tools & Platforms** | ![Vivado](https://img.shields.io/badge/Vivado-9D2235?style=for-the-badge) ![Vitis](https://img.shields.io/badge/Vitis-9D2235?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-002D5A?style=for-the-badge) ![Keil](https://img.shields.io/badge/Keil-002D5A?style=for-the-badge) ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFB000?style=for-the-badge) ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black) |
 | **Verification & Simulation** | ![SystemVerilog Testbenches](https://img.shields.io/badge/SystemVerilog_Testbenches-005F73?style=for-the-badge) ![RTL Simulation](https://img.shields.io/badge/RTL_Simulation-FF6F61?style=for-the-badge) ![IP Core Dev](https://img.shields.io/badge/IP_Core_Dev-7E57C2?style=for-the-badge) ![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-9D2235?style=for-the-badge) |
 | **Domains** | ![RTL Design & Verification](https://img.shields.io/badge/RTL_Design_&_Verification-5A29E4?style=for-the-badge) ![SoC Design](https://img.shields.io/badge/SoC_Design-00A99D?style=for-the-badge) ![FPGA Deployment](https://img.shields.io/badge/FPGA_Deployment-0078D4?style=for-the-badge) ![Hardware Acceleration](https://img.shields.io/badge/Hardware_Acceleration-B33771?style=for-the-badge) ![Embedded AI](https://img.shields.io/badge/Embedded_AI-F29F05?style=for-the-badge) ![DSP](https://img.shields.io/badge/DSP-1E90FF?style=for-the-badge) ![AI & ML](https://img.shields.io/badge/AI_&_ML-673AB7?style=for-the-badge) ![Cross-Domain Research](https://img.shields.io/badge/Cross_Domain_Research-6C5CE7?style=for-the-badge) |
-
 ---
 
 ### 📊 GitHub Stats
@@ -169,14 +165,9 @@ Currently open to **internship and collaboration opportunities** where I can hel
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVM-27&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVM-27&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
-
 ---
 
 ### ⚡ Fun Fact
 
-Before I made chips think, I was a **4× National Champion in competitive word games**.  
+Before I made chips think, I was a **4× National Champion in competitive word games**.
 Turns out I just enjoy making things process language — whether they’re human or silicon.
-
-<!--
-SEO: Adarsh Venugopal, FPGA engineer, embedded AI, RTL design, systemVerilog, Vitis AI, radar signal processing, labview, smart india hackathon, AVM-27, Pynq, Basys3, adversarial AI, bold.pro
--->
