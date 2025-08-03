@@ -25,13 +25,13 @@
 
 ---
 
-I'm on a mission to blur the lines between hardware and software until they're inseparable. As a final-year student, I get my hands dirty with everything from low-level RTL design to high-flying FPGA-based AI. I'm currently looking for my next adventure and am open to **internship and collaboration opportunities** where I can help build the future of computing.
+My work sits at the intersection of logic gates and learning algorithms. Whether it’s pipelining a datapath or accelerating neural inference, I thrive on pushing silicon to do more with less. I’m currently open to internships or collaborative research that challenges the limits of hardware–software co-design and embedded intelligence.
 
 ---
 
 ### 🧭 Where I’m Headed
 
-I'm aiming to work at the intersection of RTL, hardware acceleration, and embedded AI—where systems aren’t just functional, they’re fast and intelligent. Long-term, I want to contribute to high-performance chip designs powering edge-AI and next-gen computing.
+I'm aiming to work at the intersection of RTL, hardware acceleration, and embedded AI, where systems aren’t just functional, they’re fast and intelligent. Long-term, I want to contribute to high-performance chip designs powering edge-AI and next-gen computing.
 
 ---
 
@@ -187,9 +187,4 @@ Turns out I just enjoy making things process language — whether they’re huma
 
 ---
 
-Would you like me to:
-- export this as a downloadable `README.md` file?
-- generate a recruiter-specific variant for FPGA/VLSI?
-- help deploy self-hosted GitHub stats for private activity?
 
-Let me know.
