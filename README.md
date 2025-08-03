@@ -1,4 +1,4 @@
-add to <h1 align="center">
+ <h1 align="center">
   Hi there, I'm Adarsh Venugopal 👋
 </h1>
 
