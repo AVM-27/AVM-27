@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham</strong><br>
-  <em>Architecting the silicon that makes AI faster and more efficient, from the edge to the data center.</em><br>
+  <em>Architecting the silicon that makes AI faster and more efficient\</em><br>
   📍 Juggling transistors and timezones between Coimbatore & Mumbai.
 </p>
 
