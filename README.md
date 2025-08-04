@@ -35,7 +35,7 @@ I’m driven to push performance-per-watt boundaries through smart logic design 
 
 ## 🧭 My Mission
 
-To architect the next generation of compute silicon—SoCs, ASICs, and FPGAs—that accelerate intelligent workloads at the edge.  
+To architect the next generation of compute silicon: SoCs, ASICs, and FPGAs that accelerate intelligent workloads at the edge.  
 I aim to solve design challenges in memory bottlenecks, interconnect latency, and energy-efficient inference with creative, low-level engineering.
 
 ---
@@ -62,7 +62,7 @@ I aim to solve design challenges in memory bottlenecks, interconnect latency, an
 <summary><h4>🏆 <a href="https://github.com/AVM-27/FPGA-DL-ResNet">FPGA Deep Learning Accelerator</a></h4><small>Accelerating INT8 ResNet-50 for Edge AI Inference</small></summary>
 
 - Deployed quantised ResNet-50 on Xilinx ZCU104 using DPUCZDX8G.
-- Achieved **70× speedup**, 30 FPS, 4.2 ms latency, >90% Top-1 accuracy.
+- Achieved **70× speedup** against ARM Cortex-A53, 30 FPS, 4.2 ms latency, >90% Top-1 accuracy.
 - Full pipeline from model quantisation to hardware deployment.
 - **Tech Used:** Vitis AI · Python · Xilinx ZCU104 · ResNet-50
 
