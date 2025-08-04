@@ -4,7 +4,7 @@
 
 <p align="center">
   <strong>B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham</strong><br>
-  <em>Architecting the silicon that makes AI faster and more efficient.</em><br>
+  <em>Architecting the silicon that makes AI faster and more efficient, specializing in Edge AI and hardware acceleration.</em><br>
   📍 Juggling transistors and timezones between Coimbatore & Mumbai.
 </p>
 
@@ -25,13 +25,13 @@
 
 ---
 
-My work lives at the nexus of semiconductor design and artificial intelligence. I specialize in hardware-software co-design to accelerate compute-intensive workloads, whether it's designing custom logic for an SoC or optimizing inference pipelines at data center scale. I thrive on the challenge of maximizing performance-per-watt ($TOPS/W$) and minimizing latency for the next generation of AI applications.
+My work lives at the nexus of semiconductor design and artificial intelligence. I specialize in hardware-software co-design to accelerate compute-intensive workloads, from designing custom logic for an SoC to optimizing on-chip inference pipelines. I thrive on the challenge of maximizing performance-per-watt ($TOPS/W$) and minimizing latency for the next generation of Edge AI applications.
 
 ---
 
 ### 🧭 My Mission
 
-My goal is to architect and design the next generation of custom silicon—ASICs, FPGAs, and SoCs—that will power AI and high-performance computing in the data center and at the intelligent edge. I'm driven to solve fundamental challenges in memory bandwidth, interconnects, and power-efficient compute.
+My goal is to architect and design the next generation of custom silicon—ASICs, FPGAs, and SoCs—that will power Edge AI and high-performance, accelerated computing. I'm driven to solve fundamental chip design challenges in memory bandwidth, on-chip interconnects, and power-efficient compute.
 
 ---
 
@@ -40,18 +40,18 @@ My goal is to architect and design the next generation of custom silicon—ASICs
 -   🧠 **Project SATARK (Smart India Hackathon):**
     -   Architecting a low-power FPGA-based system for real-time acoustic event detection—a classic 'tinyML' challenge in resource-constrained hardware.
 -   🛡️ **Waging War on Noise:**
-    -   Modeling and mitigating phase noise in high-frequency systems, a critical task for ensuring signal integrity in data center networking fabrics and advanced radar systems.
+    -   Modeling and mitigating phase noise in high-frequency systems, a critical task for ensuring signal integrity for high-speed on-chip interconnects and advanced sensor systems.
 -   🎥 **AI Video Detective:**
-    -   Building a robust ML pipeline to secure video streams against deepfakes, a crucial function for infrastructure monitoring from edge devices (UAVs) to data center security.
+    -   Building a robust ML pipeline to secure video streams against deepfakes, a crucial function for infrastructure monitoring on autonomous and edge devices.
 -   🌱 **Endless Exploration:**
-    -   Deep diving into High-Level Synthesis (HLS), developing custom IP cores for SoCs, and optimizing AI deployment on heterogeneous compute platforms.
+    -   Deep diving into High-Level Synthesis (HLS) with Vitis, developing custom IP cores for SoCs using Vivado, and optimizing AI deployment on heterogeneous compute platforms.
 
 ---
 
 ### 🚀 Key Projects & Hardware Adventures
 
 <details open>
-<summary><h4>🏆 FPGA Deep Learning Accelerator</h4><small>Accelerating INT8 ResNet-50 for Edge & Data Center Inference</small></summary>
+<summary><h4>🏆 FPGA Deep Learning Accelerator</h4><small>Accelerating INT8 ResNet-50 for Edge AI Inference</small></summary>
 <p>
 
 -   Deployed a quantized ResNet-50 model on a Xilinx ZCU104, achieving a **70× speedup** over the embedded ARM processor.
@@ -63,7 +63,7 @@ My goal is to architect and design the next generation of custom silicon—ASICs
 </details>
 
 <details>
-<summary>⚙️ RTL Design & IP Cores</summary>
+<summary>⚙️ RTL Design & IP Cores for Chip Design</summary>
 <p>
 
 -   Designed foundational RTL blocks (ALUs, FSMs, arbiters)—the digital DNA of custom ASICs and SoCs.
@@ -74,11 +74,11 @@ My goal is to architect and design the next generation of custom silicon—ASICs
 </details>
 
 <details>
-<summary>🎯 Adversarial AI Robustness</summary>
+<summary>🎯 Adversarial AI Robustness for Edge Systems</summary>
 <p>
 
 -   Investigated the fragility of neural networks by designing pixel-level attacks that degrade classifier confidence by over 70%.
--   Analyzed model robustness, a critical consideration for deploying secure AI in data centers and autonomous systems.
+-   Analyzed model robustness, a critical consideration for deploying secure AI in autonomous systems.
 -   **Stack:** `Python`, `TensorFlow`, `Colab`, `Skimage`
 
 </p>
@@ -87,7 +87,6 @@ My goal is to architect and design the next generation of custom silicon—ASICs
 ---
 
 ### 🌼 Awards & Volunteering
-
 - 🎓 **University Nominee** – Smart India Hackathon (2024)
 - 🧠 **Participant** – DIR-V FPGA Hackathon, RISC-V Symposium (IIT-M), IIMAPS 2.0 (IISc)
 - 📈 **Case Study Qualifier** – AI Blueprint of Bharat @ IIT-KGP (2024)
@@ -102,10 +101,10 @@ My goal is to architect and design the next generation of custom silicon—ASICs
 ### 💼 Industry & Research Experience
 
 <details open>
-<summary><h4>💻 LLM Pipeline Engineer @ NTT Global Data Centers</h4></summary>
+<summary><h4>💻 LLM Pipeline Engineer @ NTT</h4></summary>
 <p>
 
--   Optimized LLM inference pipelines on **data center-grade infrastructure** (AWS SageMaker & EC2).
+-   Optimized LLM inference pipelines on **high-performance compute infrastructure** (AWS SageMaker & EC2).
 -   Integrated Juniper-based networking fabrics for distributed compute workloads.
 -   Researched **energy-efficient hardware acceleration strategies** to improve performance-per-watt.
 -   **Impact:** Reduced average inference latency by 30% on production-scale test workloads.
@@ -117,7 +116,7 @@ My goal is to architect and design the next generation of custom silicon—ASICs
 <summary><h4>🛡️ Technology Risk Intern @ Ernst & Young</h4></summary>
 <p>
 
--   Audited IT controls against frameworks (ISO 27001, GDPR) that govern large-scale enterprise and **data center operations**.
+-   Audited IT controls against frameworks (ISO 27001, GDPR) that govern large-scale enterprise IT operations.
 -   **Impact:** Gained insight into the security and compliance posture required for mission-critical infrastructure.
 
 </p>
@@ -139,10 +138,10 @@ My goal is to architect and design the next generation of custom silicon—ASICs
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Silicon & HDLs** | ![Verilog](https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge&logo=systemverilog&logoColor=white) ![RTL Design](https://img.shields.io/badge/RTL_Design-5A29E4?style=for-the-badge) ![SoC Design](https://img.shields.io/badge/SoC_Design-00A99D?style=for-the-badge) |
-| **Verification & Synthesis** | ![UVM](https://img.shields.io/badge/UVM-00A99D?style=for-the-badge) ![SystemVerilog TBs](https://img.shields.io/badge/SystemVerilog_TBs-005F73?style=for-the-badge) ![Vivado](https://img.shields.io/badge/Vivado-9D2235?style=for-the-badge) ![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-9D2235?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-002D5A?style=for-the-badge) |
-| **AI & Acceleration** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Vitis AI](https://img.shields.io/badge/Vitis_AI-9D2235?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge) ![Signal Processing](https://img.shields.io/badge/Signal_Processing-1E90FF?style=for-the-badge) |
-| **Cloud & Systems** | ![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black) ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-0b1a26?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **Chip Design & HDLs** | ![Verilog](https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge&logo=systemverilog&logoColor=white) ![RTL Design](https://img.shields.io/badge/RTL_Design-5A29E4?style=for-the-badge) ![SoC Design](https://img.shields.io/badge/SoC_Design-00A99D?style=for-the-badge) |
+| **Verification & Synthesis** | ![Vivado](https://img.shields.io/badge/Vivado-9D2235?style=for-the-badge) ![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-9D2235?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-00A99D?style=for-the-badge) ![SystemVerilog TBs](https://img.shields.io/badge/SystemVerilog_TBs-005F73?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-002D5A?style=for-the-badge) |
+| **AI & Hardware Acceleration** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Vitis AI](https://img.shields.io/badge/Vitis_AI-9D2235?style=for-the-badge) ![HW Accel](https://img.shields.io/badge/HW_Accel-B33771?style=for-the-badge) ![Edge AI](https://img.shields.io/badge/Edge_AI-F29F05?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge) |
+| **Systems & Software** | ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-0b1a26?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
 
 ---
 
