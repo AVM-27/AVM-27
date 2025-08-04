@@ -1,10 +1,10 @@
 <h1 align="center">
-  Hi there, I'm Adarsh Venugopal 👋
+  👋 Hi, I'm Adarsh — Engineering Smarter Silicon for Smarter AI
 </h1>
 
 <p align="center">
   <strong>B.Tech Electronics Engineering Student @ Amrita Vishwa Vidyapeetham</strong><br>
-  <em>Architecting the silicon that makes AI faster and more efficient, specializing in Edge AI and hardware acceleration.</em><br>
+  <em>Specialising in Edge AI and hardware acceleration. Architecting the silicon behind AI.</em><br>
   📍 Juggling transistors and timezones between Coimbatore & Mumbai.
 </p>
 
@@ -25,138 +25,164 @@
 
 ---
 
-My work lives at the nexus of semiconductor design and artificial intelligence. I specialize in hardware-software co-design to accelerate compute-intensive workloads, from designing custom logic for an SoC to optimizing on-chip inference pipelines. I thrive on the challenge of maximizing performance and minimizing latency for the next generation of Edge AI applications.
+## 🧠 About Me
+
+I'm a final-year Electronics Engineering student focused on building high-performance compute hardware that powers smarter AI.  
+My interests lie in hardware-software co-design—designing custom RTL, accelerating inference with FPGAs, and deploying optimised AI pipelines on heterogeneous edge platforms.  
+I’m driven to push performance-per-watt boundaries through smart logic design and silicon-aware AI.
 
 ---
 
-### 🧭 My Mission
+## 🧭 My Mission
 
-My goal is to architect and design the next generation of custom silicon—ASICs, FPGAs, and SoCs—that will power Edge AI and high-performance, accelerated computing. I'm driven to solve fundamental chip design challenges in memory bandwidth, on-chip interconnects, and power-efficient compute.
-
----
-
-### 🔭 Current Quests
-
--   🧠 **Project SATARK (Smart India Hackathon):**
-    -   Architecting a low-power FPGA-based system for real-time acoustic event detection—a classic 'tinyML' challenge in resource-constrained hardware.
--   🛡️ **Waging War on Noise:**
-    -   Modeling and mitigating phase noise in high-frequency systems, a critical task for ensuring signal integrity for high-speed on-chip interconnects and advanced sensor systems.
--   🎥 **AI Video Detective:**
-    -   Building a robust ML pipeline to secure video streams against deepfakes, a crucial function for infrastructure monitoring on autonomous and edge devices.
--   🌱 **Endless Exploration:**
-    -   Deep diving into High-Level Synthesis (HLS) with Vitis, developing custom IP cores for SoCs using Vivado, and optimizing AI deployment on heterogeneous compute platforms.
+To architect the next generation of compute silicon—SoCs, ASICs, and FPGAs—that accelerate intelligent workloads at the edge.  
+I aim to solve design challenges in memory bottlenecks, interconnect latency, and energy-efficient inference with creative, low-level engineering.
 
 ---
 
-### 🚀 Key Projects & Hardware Adventures
+## 🔭 Current Quests
+
+- 🧠 **Project SATARK (Smart India Hackathon):**  
+  Architecting a low-power FPGA system for real-time acoustic event detection in resource-constrained IoT devices.
+
+- 🛡️ **Waging War on Noise:**  
+  Modelling and mitigating phase noise in high-frequency systems to improve signal integrity and sensor accuracy.
+
+- 🎥 **AI Video Detective:**  
+  Building a lightweight ML pipeline to detect video tampering and deepfakes in dashcam and UAV feeds.
+
+- 🌱 **Learning Path:**  
+  Exploring HLS using Vitis, Vivado IP integration, and embedded AI acceleration on hybrid architectures.
+
+---
+
+## 🚀 Projects & Hardware Adventures
 
 <details open>
-<summary><h4>🏆 FPGA Deep Learning Accelerator</h4><small>Accelerating INT8 ResNet-50 for Edge AI Inference</small></summary>
-<p>
+<summary><h4>🏆 <a href="https://github.com/AVM-27/FPGA-DL-ResNet">FPGA Deep Learning Accelerator</a></h4><small>Accelerating INT8 ResNet-50 for Edge AI Inference</small></summary>
 
--   Deployed a quantized ResNet-50 model on a Xilinx ZCU104, achieving a **70× speedup** over the embedded ARM processor.
--   This project demonstrates a full hardware acceleration pipeline, proving the massive potential of FPGAs for energy-efficient inference ($TOPS/W$).
--   **Metrics:** 30 FPS inference @ 4.188 ms latency; >90% Top-1 accuracy.
--   **Tech Stack:** `Vitis AI`, `Python`, `Xilinx ZCU104`, `DPUCZDX8G Accelerator IP`
+- Deployed quantised ResNet-50 on Xilinx ZCU104 using DPUCZDX8G.
+- Achieved **70× speedup**, 30 FPS, 4.2 ms latency, >90% Top-1 accuracy.
+- Full pipeline from model quantisation to hardware deployment.
+- **Tech Used:** Vitis AI · Python · Xilinx ZCU104 · ResNet-50
 
-</p>
 </details>
 
 <details>
-<summary>⚙️ RTL Design & IP Cores for Chip Design</summary>
-<p>
+<summary><h4>⚙️ <a href="https://github.com/AVM-27/RTL-for-Kids">RTL IP Cores & Chip Design Blocks</a></h4><small>Digital Building Blocks for ASICs and SoCs</small></summary>
 
--   Designed foundational RTL blocks (ALUs, FSMs, arbiters)—the digital DNA of custom ASICs and SoCs.
--   Verified logic using SystemVerilog testbenches and ModelSim, and deployed custom IP on FPGA platforms using Vivado and Vitis HLS.
--   **Platforms:** `Basys3`, `Pynq`
+- Designed & verified RTL cores: ALUs, FSMs, arbiters, and adders.
+- Used SystemVerilog testbenches in ModelSim; deployed on FPGA with Vivado.
+- **Platforms:** Basys3 · Pynq · Vivado · Vitis HLS
 
-</p>
 </details>
 
 <details>
-<summary>🎯 Adversarial AI Robustness for Edge Systems</summary>
-<p>
+<summary><h4>🎯 <a href="https://github.com/AVM-27/Project-Pixel-Foolery">Adversarial AI Robustness</a></h4><small>Stress-Testing Neural Networks for Secure Edge Deployment</small></summary>
 
--   Investigated the fragility of neural networks by designing pixel-level attacks that degrade classifier confidence by over 70%.
--   Analyzed model robustness, a critical consideration for deploying secure AI in autonomous systems.
--   **Stack:** `Python`, `TensorFlow`, `Colab`, `Skimage`
+- Designed differential evolution–based pixel attacks on CNNs.
+- Reduced classifier confidence by >70%, highlighting model brittleness.
+- **Stack:** Python · TensorFlow · Skimage · Colab
 
-</p>
 </details>
 
 ---
 
-### 🌼 Awards & Volunteering
-- 🎓 **University Nominee** – Smart India Hackathon (2024)
-- 🧠 **Participant** – DIR-V FPGA Hackathon, RISC-V Symposium (IIT-M), IIMAPS 2.0 (IISc)
-- 📈 **Case Study Qualifier** – AI Blueprint of Bharat @ IIT-KGP (2024)
-- 🥈 **Runner-Up & Coordinator** – AsIEvolve Leadership Program (Rotary)
-- 🏆 **4× National Champion** – MaRRS Word Chase & Maze of Words
-- 📷 **Member** – INCOSE Amrita Chapter, Amrita Photography Club
-- 🤝 **Volunteer** – Amma’s 70th Birthday Outreach Campaigns
-- 🎤 **Speaker** – Represented Amrita in debates, quizzes, and elocution
-
----
-
-### 💼 Industry & Research Experience
+## 💼 Industry & Research Experience
 
 <details open>
 <summary><h4>💻 LLM Pipeline Engineer @ NTT</h4></summary>
-<p>
 
--   Optimized LLM inference pipelines on **high-performance compute infrastructure** (AWS SageMaker & EC2).
--   Integrated Juniper-based networking fabrics for distributed compute workloads.
--   Researched **energy-efficient hardware acceleration strategies** to improve performance-per-watt.
--   **Impact:** Reduced average inference latency by 30% on production-scale test workloads.
+- Optimised LLM inference pipelines on AWS SageMaker + EC2.
+- Integrated networking via Juniper QFX for distributed compute.
+- Researched energy-efficient accelerator strategies → 30% latency cut.
 
-</p>
 </details>
 
 <details>
 <summary><h4>🛡️ Technology Risk Intern @ Ernst & Young</h4></summary>
-<p>
 
--   Audited IT controls against frameworks (ISO 27001, GDPR) that govern large-scale enterprise IT operations.
--   **Impact:** Gained insight into the security and compliance posture required for mission-critical infrastructure.
+- Audited systems under ISO 27001 and GDPR compliance.
+- Gained systems-level exposure to IT security in enterprise stacks.
 
-</p>
 </details>
 
 <details>
-<summary><h4>🌾 Embedded Systems Assistant – SATCARD @ IIT-PKD</h4></summary>
-<p>
+<summary><h4>🌾 Embedded Systems Assistant – SATCARD @ IIT Palakkad</h4></summary>
 
--   Designed a sensor-fusion system for **industrial edge computing**, building a real-time anomaly detection stack.
--   **Impact:** Enabled predictive maintenance insights by processing sensor data directly on edge hardware.
+- Built anomaly detection on edge using sensor-fusion techniques.
+- Designed a low-footprint compute stack for predictive maintenance.
 
-</p>
 </details>
 
 ---
 
-### 🛠️ My Tech Stack
+## 🌼 Awards & Volunteering
 
-| Category | Skills & Technologies |
-| :--- | :--- |
-| **Chip Design & HDLs** | ![Verilog](https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge&logo=verilog&logoColor=white) ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge&logo=systemverilog&logoColor=white) ![RTL Design](https://img.shields.io/badge/RTL_Design-5A29E4?style=for-the-badge) ![SoC Design](https://img.shields.io/badge/SoC_Design-00A99D?style=for-the-badge) |
-| **Verification & Synthesis** | ![Vivado](https://img.shields.io/badge/Vivado-9D2235?style=for-the-badge) ![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-9D2235?style=for-the-badge) ![UVM](https://img.shields.io/badge/UVM-00A99D?style=for-the-badge) ![SystemVerilog TBs](https://img.shields.io/badge/SystemVerilog_TBs-005F73?style=for-the-badge) ![ModelSim](https://img.shields.io/badge/ModelSim-002D5A?style=for-the-badge) |
-| **AI & Hardware Acceleration** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Vitis AI](https://img.shields.io/badge/Vitis_AI-9D2235?style=for-the-badge) ![HW Accel](https://img.shields.io/badge/HW_Accel-B33771?style=for-the-badge) ![Edge AI](https://img.shields.io/badge/Edge_AI-F29F05?style=for-the-badge) ![Deep Learning](https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge) |
-| **Systems & Software** | ![C/C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Embedded C](https://img.shields.io/badge/Embedded_C-0b1a26?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+- 🎓 **Smart India Hackathon Nominee (2024)** – Amrita University  
+- 🧠 **Finalist** – DIR-V FPGA Hackathon (IIT-M), IIMAPS 2.0 (IISc)  
+- 📈 **Qualifier** – AI Blueprint of Bharat (IIT-KGP, 2024)  
+- 🥈 **Runner-Up & Coordinator** – AsIEvolve Leadership Programme  
+- 🏆 **4× National Champion** – MaRRS Word Chase & Maze of Words  
+- 📷 **Core Member** – Amrita Photography Club, INCOSE Amrita  
+- 🎤 **Speaker** – Represented Amrita in debate, quiz, and elocution  
+- 🤝 **Volunteer** – Amma’s 70th Birthday Outreach Campaigns  
 
 ---
 
-### 📊 GitHub Stats
+## 🛠️ My Tech Stack
+
+<details>
+<summary>🔧 Chip Design & Verification</summary>
+
+![Verilog](https://img.shields.io/badge/Verilog-1E2C5A?style=for-the-badge)  
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4169E1?style=for-the-badge)  
+![RTL Design](https://img.shields.io/badge/RTL_Design-5A29E4?style=for-the-badge)  
+![Vivado](https://img.shields.io/badge/Vivado-9D2235?style=for-the-badge)  
+![Vitis HLS](https://img.shields.io/badge/Vitis_HLS-9D2235?style=for-the-badge)  
+![ModelSim](https://img.shields.io/badge/ModelSim-002D5A?style=for-the-badge)
+
+</details>
+
+<details>
+<summary>⚡ AI & Hardware Acceleration</summary>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge)  
+![Vitis AI](https://img.shields.io/badge/Vitis_AI-B33771?style=for-the-badge)  
+![Edge AI](https://img.shields.io/badge/Edge_AI-F29F05?style=for-the-badge)  
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-673AB7?style=for-the-badge)
+
+</details>
+
+<details>
+<summary>🖥️ Systems & Programming</summary>
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)  
+![Embedded C](https://img.shields.io/badge/Embedded_C-0b1a26?style=for-the-badge)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge)  
+
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVM-27&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVM-27&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVM-27&layout=compact&langs_count=8&theme=tokyonight&count_weight=1"/>
 </p>
 
----
-
-### ⚡ Quirk & Fun Fact
-
--   **My Quirk:** I see chip floorplans as dense, bustling cities. The logic blocks are skyscrapers, the interconnects are highways, and my job is to be the urban planner who eliminates traffic jams and keeps the data flowing at the speed of light.
--   **Fun Fact:** Before I made chips think, I was a **4× National Champion in competitive word games**. Turns out I just enjoy making things process language — whether they’re human or silicon.
+> If your top language card isn’t updating: ensure `.gitattributes` is configured correctly to exclude non-code files, or self-host your stats fork with GraphQL pagination.
 
 ---
+
+## ⚡ Quirk & Fun Fact
+
+- 🏙️ I see chip floorplans as bustling cities. Logic blocks are skyscrapers, interconnects are highways, and I’m the urban planner optimising traffic flow.
+- 🧠 Before silicon, I made humans think — 4× National Champion in word games. Now I make machines process language faster than humans can speak.
+
+---
+
+📫 *Let’s connect! I’m open to collaborations, internships, and knowledge exchanges in RTL, Edge AI, and hardware acceleration.*
