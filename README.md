@@ -28,7 +28,7 @@
 ## 🧠 About Me
 
 I'm a final-year Electronics Engineering student focused on building high-performance compute hardware that powers smarter AI.  
-My interests lie in hardware-software co-design—designing custom RTL, accelerating inference with FPGAs, and deploying optimised AI pipelines on heterogeneous edge platforms.  
+My interests lie in hardware-software co-design of custom RTL, accelerating inference with FPGAs, and deploying optimised AI pipelines on heterogeneous edge platforms.  
 I’m driven to push performance-per-watt boundaries through smart logic design and silicon-aware AI.
 
 ---
