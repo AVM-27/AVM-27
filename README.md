@@ -25,7 +25,7 @@
 
 ---
 
-My work lives at the nexus of semiconductor design and artificial intelligence. I specialize in hardware-software co-design to accelerate compute-intensive workloads, from designing custom logic for an SoC to optimizing on-chip inference pipelines. I thrive on the challenge of maximizing performance-per-watt ($TOPS/W$) and minimizing latency for the next generation of Edge AI applications.
+My work lives at the nexus of semiconductor design and artificial intelligence. I specialize in hardware-software co-design to accelerate compute-intensive workloads, from designing custom logic for an SoC to optimizing on-chip inference pipelines. I thrive on the challenge of maximizing performance and minimizing latency for the next generation of Edge AI applications.
 
 ---
 
